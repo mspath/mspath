@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Android development with Kotlin, Jetpack and Compose. 
+- 👯 I’m also branching out into Rust and TypeScript / React.
+
 <!--
 **mspath/mspath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
