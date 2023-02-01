@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Android development with Kotlin, Jetpack and Compose. 
 - 👯 I’m also branching out into Rust and TypeScript / React.
 - 🔭 I’m currently working on filling the missing days in the Advent of Code series.
+- ⚡ I'm easily motivated with badges, see my [Google developer profile](https://g.dev/hackr):
+![Badges](https://mspath.github.io/assets/img/badges/badges-all.png)
+
 
 <!--
 **mspath/mspath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
